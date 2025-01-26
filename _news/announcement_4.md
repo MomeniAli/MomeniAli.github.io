@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Invited Talk:** URSI 2024, Spain. Paper title: "Training of Analog AI accelerators"
+**Invited Talk:** URSI 2024, Spain. Paper title: "Training of Analog AI accelerators"

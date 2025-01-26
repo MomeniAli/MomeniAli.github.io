@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Conference:** SPIE 2024, California. Paper title: "Training of Deep Optical Neural Networks with forward only passes"
+**Conference:** SPIE 2024, California. Paper title: "Training of Deep Optical Neural Networks with forward only passes"

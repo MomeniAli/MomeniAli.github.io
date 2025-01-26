@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Conference:** NeurIPS, New Orleans. Paper title: "PhyFF: Physical forward forward algorithm for in‑hardware training and inference"
+**Conference:** NeurIPS, New Orleans. Paper title: "PhyFF: Physical forward forward algorithm for in‑hardware training and inference"

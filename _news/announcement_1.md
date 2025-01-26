@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Conference:** PIERS 2023, Prague. Paper title: "Waves for AI: from ELM and RC to deep neural networks"
+**Conference:** PIERS 2023, Prague. Paper title: "Waves for AI: from ELM and RC to deep neural networks"

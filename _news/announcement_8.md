@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
- **Award:** Featured paper as an Editor’s highlight, the top 50 latest published Nature papers in Applied
+**Award:** Featured paper as an Editor’s highlight, the top 50 latest published Nature papers in Applied
 Physics and Mathematics (Nature Com. paper)

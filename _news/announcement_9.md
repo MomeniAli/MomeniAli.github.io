@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**News:** 🎉 Interview with *IT for Business* magazine! In the discussion, I explored the topic of **Local Training of Physical Neural Networks**. Check out the article here: [Read the interview](https://www.itforbusiness.fr/des-reseaux-de-neurones-physiques-pour-des-entrainements-moins-energivores-82242).
+**News:** 🎉 Interview with _IT for Business_ magazine! In the discussion, I explored the topic of **Local Training of Physical Neural Networks**. Check out the article here: [Read the interview](https://www.itforbusiness.fr/des-reseaux-de-neurones-physiques-pour-des-entrainements-moins-energivores-82242).

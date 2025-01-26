@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Award:** Research Highlights In Science Journals, highlighted paper in Machine Learning (Science paper)
+**Award:** Research Highlights In Science Journals, highlighted paper in Machine Learning (Science paper)

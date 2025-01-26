@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Conference:** Metamaterials 2024, Greece. Paper title: "Backpropagation‑free Training of Analog AI Accelerators"
+**Conference:** Metamaterials 2024, Greece. Paper title: "Backpropagation‑free Training of Analog AI Accelerators"

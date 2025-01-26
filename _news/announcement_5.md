@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- **Best Paper:** Paper title: "Training of Analog AI accelerators" (at URSI 2024, Spain)
+**Best Paper:** Paper title: "Training of Analog AI accelerators" (at URSI 2024, Spain)
